@@ -42,26 +42,14 @@ Splines is a Rust crate for constructing and evaluating cubic spline interpolati
 
 ---
 
-## 📂 Project Structure
-
-splines/
-├── src/
-│   ├── lib.rs
-│   ├── main.rs
-│   ├── makima.rs
-│   ├── pchip.rs
-│   ├── ppdata.rs
-│   ├── search_tree.rs
-│   ├── binsearch.rs
-│   └── solve.rs
-
----
-
 ## 🚀 Getting Started
 
 git clone https://github.com/evnekdev/splines.git
+
 cd splines
+
 cargo build
+
 cargo run
 
 ---
