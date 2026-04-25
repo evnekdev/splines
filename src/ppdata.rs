@@ -20,6 +20,7 @@ use crate::{kernel_conv};
 use crate::{_interval_inside};
 use crate::binsearch::{binary_search_interval};
 use crate::makima::{makima};
+use crate::pchip::{pchip};
 use crate::solve::{calculate_root};
 
 /********************************************************************************************************************/
